@@ -1,0 +1,7 @@
+/node_modules
+
+# Tests
+/coverage
+
+# Builded front app
+/public

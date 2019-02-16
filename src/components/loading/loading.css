@@ -1,0 +1,80 @@
+* {
+    margin:0;
+    padding:0;
+  }
+  #SplashScreen {
+      width: 100%;
+      height: 100%;
+      background-color: #56636b;
+      text-align: center;
+      vertical-align: middle;
+      line-height: 40vh;
+      z-index: 999;
+  }
+  
+  .Loader {
+      text-align: center;
+  }
+  
+  .Loader div {
+      width: 2px;
+      height: 25px;
+      background-color: #FFFFFF;
+      margin: 10px;
+      display: inline-block;
+  }
+  
+  .line1 {
+      -webkit-animation: goleft 1.4s ease infinite;
+      -o-animation: goleft 1.4s ease infinite;
+      animation: goleft 1.4s ease infinite;
+  }
+  
+  .line2 {
+      -webkit-animation: rotate 1.4s ease infinite;
+      -o-animation: rotate 1.4s ease infinite;
+      animation: rotate 1.4s ease infinite;
+  }
+  
+  .line3 {
+      -webkit-animation: goright 1.4s ease infinite;
+      -o-animation: goright 1.4s ease infinite;
+      animation: goright 1.4s ease infinite;
+  }
+  
+  @keyframes goleft {
+      0% {
+          margin-right: 0;
+      }
+      50% {
+          margin-right: 10px;
+      }
+      100% {
+          margin-right: 0;
+      }
+  }
+  
+  @keyframes rotate {
+      0% {
+          transform: rotate(-180deg);
+      }
+      50% {
+          transform: rotate(0deg);
+      }
+  
+      100% {
+          transform: rotate(180deg);
+      } 
+  }
+  
+  @keyframes goright {
+      0% {
+          margin-left: 0;
+      }
+      50% {
+          margin-left: 10px;
+      }
+      100% {
+          margin-left: 0;
+      }
+  }

@@ -5,8 +5,7 @@
   "dependencies": {
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
-    "react-scripts": "^2.1.5",
-    "webpack-dev-server": "^3.1.11"
+    "react-scripts": "^2.1.5"
   },
   "scripts": {
     "prestart": "yarn build --prod",
@@ -17,5 +16,11 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "serve": "react-scripts start"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }

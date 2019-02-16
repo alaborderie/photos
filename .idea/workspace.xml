@@ -2,97 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f140a79a-e94a-47d0-805c-da0e4c68c5c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsDialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photoTest/moto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/1cdf0b83-9626-4106-bd72-20d5482df675.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/2303B897-FB71-4108-85B7-46BCF5DD5A0E.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/41af1dbc-a077-407e-95bc-3bb61a185870.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/4ec13b9f-c71d-4a40-bd5d-3b6e8512a7bd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/5027ae23-25f6-4583-80c2-23fce7aaabff.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/62D121C9-1F20-46E5-806C-7BAD31BBA098.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/6a3e3575-ccbf-476a-81f3-1f74ef32d7ce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/6d2768f2-f3cc-48f6-a5b7-aeca5f544f4e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/8044e10a-0e52-4a82-8340-da1177959f49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/84492a16-13e1-4bde-be29-93c40135a31d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/8c51c623-5037-41ed-9d73-3c25d0b43b5d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/E1C434CF-C1BD-4C37-9BED-96B3E245E740.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/E8A3FB6C-296B-4BF8-930B-84A387F4812C.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/E8B63F21-395D-4544-8FF2-091C09C3CE86.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2181.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2255.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2264.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2318.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2338.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2370.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2582.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2583.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2641.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2683.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2685.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_2742.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3008.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3009.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3020.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3208.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3210.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3258.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3280.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3335 (1).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3407.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3451.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3464.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3467.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3476 (1).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3515.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3522.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3612.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3634.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3658.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3659.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3706.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3892.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3958.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_3973.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4112.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4277.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4287.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4313.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4319.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4638.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4727.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4789.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4794.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4816.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4830.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4856.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4957.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_4990.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_5010.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_5035.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_5043.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_5152.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/IMG_5342.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/b26e4de2-9bbf-4f7c-82f4-f0f0d29ed264.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/photos/oldphotos/db6e3f4b-55ff-4712-9a2e-ccddc98d7ff3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/views/index.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/IMG_5340.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/IMG_5340.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/elizabeth-lake-panorama.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/login/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/login/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/photos/photos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/photos/photos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -164,11 +65,23 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1024">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="633">
+              <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="23">
+                <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -205,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/router.js" />
         <option value="$PROJECT_DIR$/src/components/photos/photos.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -253,7 +167,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550316761458" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550316794417" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -322,12 +236,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550314110691</updated>
       <workItem from="1550314112822" duration="223000" />
-      <workItem from="1550314365960" duration="2283000" />
+      <workItem from="1550314365960" duration="2563000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2506000" />
+    <option name="totallyTimeSpent" value="2786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1080" y="-526" width="1080" height="1897" extended-state="0" />
@@ -343,13 +257,13 @@
       <window_info id="npm" order="7" sideWeight="0.500417" side_tool="true" weight="0.25433525" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32979318" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32979318" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32979318" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Regex" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32979318" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32979318" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -548,8 +462,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1024">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="633">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
